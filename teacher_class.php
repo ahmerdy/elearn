@@ -28,4 +28,5 @@
 									<?php } }else{ ?>
 									<div class="alert alert-info"><i class="icon-info-sign"></i> No Class Currently Added</div>
 									<?php  } ?>
+									<!--comment-->
 									</ul>
